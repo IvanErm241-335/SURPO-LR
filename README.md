@@ -1,3 +1,3 @@
-# Мой первый репозиторий для лабораторной работы 
+# My first repository for laboratory work 
  
-Я только учусь! 
+I'm just learning! 
