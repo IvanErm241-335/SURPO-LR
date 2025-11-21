@@ -3,3 +3,4 @@ Initial content
 Main branch updates 
 Security improvements 
 Login functionality 
+User authentication 
