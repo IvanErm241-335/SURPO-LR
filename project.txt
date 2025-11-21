@@ -1,4 +1,5 @@
-"# Main Project" 
-"Initial content" 
-"Main branch updates" 
-"Security improvements" 
+# Main Project 
+Initial content 
+Main branch updates 
+Security improvements 
+Login functionality 
