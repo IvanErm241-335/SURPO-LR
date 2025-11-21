@@ -4,3 +4,4 @@ Main branch updates
 Security improvements 
 Login functionality 
 User authentication 
+Password recovery 
